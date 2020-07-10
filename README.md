@@ -1,5 +1,5 @@
 
-[Generate Password Here!]("http://127.0.0.1:5500/03-JavaScript/02-Homework/Develop/index.html")
+[Generate Password Here!](http://127.0.0.1:5500/03-JavaScript/02-Homework/Develop/index.html)
 
 # 03 JavaScript: Password Generator
 
